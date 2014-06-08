@@ -1,0 +1,12 @@
+---
+galaxy_info:
+  author: Mayeu
+  description: Installing Docker on Debian
+  license: BSD
+  platforms:
+    - name: Debian
+      versions:
+        - wheezy
+  categories:
+    - system
+    - cloud
